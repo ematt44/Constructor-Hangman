@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ematt44/Constructor-Hangman#readme",
   "dependencies": {
+    "cli-color": "^1.2.0",
     "inquirer": "^4.0.1",
     "prompt": "^1.0.0"
   }
